@@ -9,6 +9,7 @@ nav{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin: 0 200px;
 }
 .nav-tittle{
     color: black;
@@ -39,4 +40,10 @@ nav a{
     font-size: 20PX;
     font-weight: 700;
     padding: 15px 35px;
+}
+.header{
+    background-color: #FFF8F3;
+}
+.banner{
+    padding: 30px 30px 30px 150px ;
 }
